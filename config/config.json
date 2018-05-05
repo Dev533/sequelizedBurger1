@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "burgers_db",
+    "host": "localhost",
+    "dialect": "mysql2"
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "burgers_db",
+    "host": "localhost",
+    "dialect": "mysql2"
+  },
+  "production": {
+    "use_env_variable":"ocvwlym0zv3tcn68.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql2"
+  }
+}
